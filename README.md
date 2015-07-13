@@ -156,6 +156,7 @@ FoundationPress is completely ready to be deployed to and tested by Travis CI fo
 * [Storm Arts](http://stormarts.fi/)
 * [USS Illinois](http://ussillinois.org/)
 * [INTI International University & Colleges](http://international.newinti.edu.my/)
+* [Magician Victor Lazarro] (http://www.lazarro.de)
 
 ## Contributing
 #### Here are ways to get involved:
